@@ -1,4 +1,5 @@
-Real-Time Analytics for Smart City Applications
+`Real-Time Analytics for Smart City Applications`
+
  Project Overview
 
 The Real-Time Analytics for Smart City Applications project is designed to collect, process, analyze, and visualize data from various urban sensors and IoT devices. The system provides actionable insights for city administrators by monitoring traffic conditions, environmental quality, and public safety in real time.
