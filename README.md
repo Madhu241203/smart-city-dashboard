@@ -8,38 +8,56 @@ By leveraging data analytics, machine learning, and interactive dashboards, this
 
  Objectives
 Monitor city-wide traffic conditions in real time.
+
 Analyze environmental parameters such as temperature, humidity, PM2.5, and CO₂ levels.
+
 Predict crime arrest outcomes using machine learning.
+
 Generate code review feedback using AI-based analysis.
+
 Provide interactive visualizations and alerts for city administrators.
+
 Support smart city planning and resource optimization.
 
 Features
+
 1. Traffic Management
+   
 Real-time vehicle count monitoring
+
 Traffic congestion analysis
+
 Simulated traffic light timing system
+
 Average speed tracking
+
 Traffic trend visualization
-2. Environmental Monitoring
+
+3. Environmental Monitoring
 Temperature monitoring
 Humidity analysis
 PM2.5 air quality tracking
 CO₂ level monitoring
 Environmental trend analysis
-  3. Public Safety Analytics
+
+ 4. Public Safety Analytics
 Crime incident monitoring
 Crime severity classification
 Crime history visualization
 Crime arrest prediction using Machine Learning
 
 `Interactive Dashboard`
+
 Real-time KPI monitoring
+
 Dynamic charts and graphs
+
 Data filtering options
+
 Automated insights generation
 
 `Technologies Used`
+
 Programming Languages
 
 1.Python
