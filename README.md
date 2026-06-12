@@ -1,25 +1,25 @@
-`Real-Time Analytics for Smart City Applications`
+# `Real-Time Analytics for Smart City Applications`
 
- Project Overview
+## Project Overview
 
 The Real-Time Analytics for Smart City Applications project is designed to collect, process, analyze, and visualize data from various urban sensors and IoT devices. The system provides actionable insights for city administrators by monitoring traffic conditions, environmental quality, and public safety in real time.
 
 By leveraging data analytics, machine learning, and interactive dashboards, this project aims to improve urban living through data-driven decision-making.
 
- Objectives
-Monitor city-wide traffic conditions in real time.
+### Objectives
+* Monitor city-wide traffic conditions in real time.
 
-Analyze environmental parameters such as temperature, humidity, PM2.5, and CO₂ levels.
+ * Analyze environmental parameters such as temperature, humidity, PM2.5, and CO₂ levels.
 
-Predict crime arrest outcomes using machine learning.
+ * Predict crime arrest outcomes using machine learning.
 
-Generate code review feedback using AI-based analysis.
+* Generate code review feedback using AI-based analysis.
 
-Provide interactive visualizations and alerts for city administrators.
+ * Provide interactive visualizations and alerts for city administrators.
 
-Support smart city planning and resource optimization.
+* Support smart city planning and resource optimization.
 
-Features
+### Features
 
 1. Traffic Management
    
@@ -46,7 +46,7 @@ Crime severity classification
 Crime history visualization
 Crime arrest prediction using Machine Learning
 
-`Interactive Dashboard`
+### `Interactive Dashboard`
 
 Real-time KPI monitoring
 
@@ -56,7 +56,7 @@ Data filtering options
 
 Automated insights generation
 
-`Technologies Used`
+### `Technologies Used`
 
 Programming Languages
 
@@ -137,7 +137,7 @@ The dataset contains:
 
 16.Signal Timing
 
-` Project Workflow`
+### ` Project Workflow`
 
 Data Collection
 
@@ -191,7 +191,7 @@ City Overview
 
 Key Metrics Summary
 
-`Traffic Analytics`
+### `Traffic Analytics`
 
 Vehicle Trends
 
@@ -219,7 +219,8 @@ Code Review Assistant
 
 
 Improvement Suggestions
-` Future Enhancements`
+
+### ` Future Enhancements`
 Integration with live IoT sensor data
 
 Real-time alert notifications
@@ -234,7 +235,7 @@ Cloud deployment using AWS/Azure
 
 Mobile application integration
 
-` Expected Outcomes`
+### ` Expected Outcomes`
 Improved traffic flow management
 
 Enhanced environmental monitoring
@@ -245,6 +246,6 @@ Automated software quality assessment
 
 Data-driven smart city governance
 
-` Conclusion`
+### ` Conclusion`
 
 This project demonstrates how Real-Time Analytics, Machine Learning, IoT, and Interactive Dashboards can be combined to create a comprehensive Smart City Management System. By providing real-time insights into traffic, environmental conditions, public safety, and software quality, the platform supports efficient urban planning and smarter decision-making.
